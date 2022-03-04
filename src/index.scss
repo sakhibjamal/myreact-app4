@@ -1,0 +1,25 @@
+body{
+  header{
+      .shop-tag{
+        min-height: 300px;
+        background-color: rgba(9, 10, 16, 0.9);
+        color:white;
+        h1{
+          font-size: 70px;
+      }
+        p{
+          font-size:22px;
+        }
+    }
+  }
+  .section-card{
+    margin-top: 100px;
+    .container{
+      .row{
+        .col-12{
+          margin-bottom: 20px;
+        }
+      }
+    }
+  }
+}
